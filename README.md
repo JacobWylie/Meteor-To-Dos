@@ -1,11 +1,16 @@
-# Meteor-To-Dos
+# Meteor To Do App
 A To-Do app built with Meteor x React using the meteor.com tutorial
 
-https://meteortodos-jw.herokuapp.com/
+See it Deployed Here: https://meteortodos-jw.herokuapp.com/
+
+Objectives:
+
+-Learn the basics of the Meteor framework
+-Learn how to deploy an app built with Meteor
 
 Features:
 
-- User sign-in and logout
+- User account
 - Public and private profile features
-- Ability to hide or view completed tasks
+- Ability to hide completed tasks
 - Counter for uncompleted tasks
