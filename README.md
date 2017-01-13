@@ -5,8 +5,8 @@ See it Deployed Here: https://meteortodos-jw.herokuapp.com/
 
 Objectives:
 
--Learn the basics of the Meteor framework
--Learn how to deploy an app built with Meteor
+- Learn the basics of the Meteor framework
+- Learn how to deploy an app built with Meteor
 
 Features:
 
