@@ -1,7 +1,7 @@
 # Meteor To Do App
 A To-Do app built with Meteor x React using the meteor.com tutorial
 
-See it deployed here: https://meteortodos-jw.herokuapp.com/
+See it deployed here: https://meteortodo-jw.herokuapp.com/
 
 Objectives:
 
